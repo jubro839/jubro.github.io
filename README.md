@@ -1,4 +1,4 @@
-# jubro.github.io
+# Juyeong Lee
 Jubro's Portfolio Website
 # Data Scientist
 
